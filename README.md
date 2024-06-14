@@ -1,12 +1,6 @@
-# React + Vite
+# React boilerplate
 
-**La team RAYM** : [Robena](https://github.com/Robe-Ras), [Annie](https://github.com/annieherieau), [Yann](https://github.com/YannRZG) et [Malo](https://github.com/Korblen)
-
-## Stack
-
-L'application est Full Stack avec :
-- un backend avec une API en Rails
-- un frontend avec React
+Boiler plate avec authentification de User. fonctionne avec un back API.
 
 ## Installation
 Clone repository

@@ -85,7 +85,5 @@ export function buildRequestOptions(
 }
 
 export function getTokenFromResponse(response) {
-  const token = response.headers.get("authorization").split(" ")[1];
-  console.log(token);
-  return token
+  return response.headers.get("authorization").split(" ")[1];
 }
